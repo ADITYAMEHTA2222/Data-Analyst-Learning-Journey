@@ -1,4 +1,6 @@
 **Data Analyst Learning Journey 🚀**
+
+
 Welcome to my Data Analyst Learning Journey repository! This repo contains daily updates from my ongoing Data Analyst program, showcasing the skills and knowledge I'm acquiring.
 
 **Contents**
